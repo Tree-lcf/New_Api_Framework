@@ -1,0 +1,71 @@
+{
+"login": {
+"userName": "Ajsbc",
+"passWord": "Jfpt123456",
+"uuid": "1234qwer",
+"kaptcha": "454862",
+"userType": "2",
+"appVersion": "3.15"
+},
+"getQuotationList": {
+   "page" : 1,
+   "priceQueryInfoList" : [
+      {
+         "modelNo" : "304/2B",
+         "name" : "不锈钢",
+         "spec" : "1.0*1219*C"
+      },
+      {
+         "modelNo" : "316L/2B",
+         "name" : "不锈钢",
+         "spec" : "1.0*1219*C"
+      },
+      {
+         "modelNo" : "304/No.1",
+         "name" : "不锈钢",
+         "spec" : "4.0*1520*C"
+      },
+      {
+         "modelNo" : "316L/No.1",
+         "name" : "不锈钢",
+         "spec" : "4.0*1500*C"
+      }
+   ],
+   "rows" : 10,
+   "sessionID": "12323",
+   "userId" : 67
+},
+   "getPriceTrendList": {
+   "dateInterval" : "3",
+   "priceQueryInfoList" : [
+      {
+         "modelNo" : "304/2B",
+         "spec" : "1.0*1219*C"
+      }
+   ],
+   "sessionID" : "0A89F43D2E74D7EEFB063E37EE803D8D",
+   "userId" : 67
+},
+   "getHistoryPrice": {
+      "page" : 1,
+      "priceQueryInfoList" : [
+         {
+            "modelNo" : "316L/No.1",
+            "spec" : "4.0*1500*C"
+         }
+      ],
+      "rows" : 10,
+      "sessionID" : "614AA6A4DB1B4A951E2ECF7FAB46E429",
+      "userId" : 67
+   },
+   "getHistoryTrend": {
+   "priceQueryInfoList" : [
+      {
+         "modelNo" : "316L/No.1",
+         "spec" : "4.0*1500*C"
+      }
+   ],
+   "sessionID" : "614AA6A4DB1B4A951E2ECF7FAB46E429",
+   "userId" : 67
+}
+}
